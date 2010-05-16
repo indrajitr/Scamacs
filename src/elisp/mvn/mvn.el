@@ -103,3 +103,5 @@
 ;;(add-to-list
 ;; 'compilation-error-regexp-alist
 ;; '("^\\([a-zA-Z]:.*\\):\\[\\([0-9]+\\),\\([0-9]+\\)\\]" 1 2 3)) 
+
+(provide 'mvn)
